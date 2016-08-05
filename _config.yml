@@ -1,0 +1,14 @@
+layout_spectrum: 0.6364132831804454
+typography_spectrum: 0.30946413544006646
+color:
+  brandStrength: 0.8020131189841777
+  lightness: 0.18035387201234698
+  saturation: 0.816265566740185
+  rhythmicContrast: 0.10314823617227376
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Hapyapp
